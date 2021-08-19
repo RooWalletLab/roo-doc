@@ -19,5 +19,5 @@ description: >-
 
 微信公众号：RooWallet
 
-微信：hpfmsy2
+客服微信：roowallet
 
